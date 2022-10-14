@@ -1,4 +1,4 @@
-# UNIT PLAN NAME
+# UNIT PLAN: Art Portfolio using HTML, CSS
 by ELIZABETH RECHTIN
 
 -----
