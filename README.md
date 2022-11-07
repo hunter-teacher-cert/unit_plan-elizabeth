@@ -26,23 +26,37 @@ List The NY State Computer Science standards you will be covering in this unit. 
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+Programming languages:  HTML, CSS, Bootstrap, possibly JS Snippets
+Specific programs/environments:  Notepad, Adobe Dreamweaver Developer Interface
+Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy paper, tracing paper, tape and pencils
 
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
++ [Code.org - Web Lab](https://studio.code.org/s/csd2-2022)
++ [W3Schools.org - HTML](https://www.w3schools.com/html/default.asp)
++ [W3SChools.org - CSS](https://www.w3schools.com/css/default.asp)
++ [W3Schools.org - Bootstrap](https://www.w3schools.com/bootstrap/default.asp)
++ [Bootstrap](https://getbootstrap.com/)
++ 
+
 
 ---
 
 ### Lessons
 Total lenght: X Weeks
-
+00
+01
 (list each lesson with main topic(s))
-
+0?_Introduction to Bootstrap Div Tags
+0?_Introduction to Bootstrap Grid
+0?_Stages of Web Design
+0?_Introduction to Dreamweaver: Defining a Site
+0?_Introduction to Dreamweaver: Defining Page Structure with HTML
+0?_Final Assessment: Art
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+Summative Assessment:  Art Portfolio using Adobe Dreamweaver developer interface. 
 
 ---
