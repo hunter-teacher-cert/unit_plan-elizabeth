@@ -44,16 +44,16 @@ Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy p
 ---
 
 ### Lessons
-Total lenght: X Weeks
-00
-01
+Total length: X Weeks
++ 00
++ 01
 (list each lesson with main topic(s))
-0?_Introduction to Bootstrap Div Tags
-0?_Introduction to Bootstrap Grid
-0?_Stages of Web Design
-0?_Introduction to Dreamweaver: Defining a Site
-0?_Introduction to Dreamweaver: Defining Page Structure with HTML
-0?_Final Assessment: Art
++ 0?_Introduction to Bootstrap Div Tags
++ 0?_Introduction to Bootstrap Grid
++ 0?_Stages of Web Design
++ 0?_Introduction to Dreamweaver: Defining a Site
++ 0?_Introduction to Dreamweaver: Defining Page Structure with HTML
++ 0?_Final Assessment: Art
 ---
 
 ### Assesments
