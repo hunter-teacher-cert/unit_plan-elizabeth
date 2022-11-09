@@ -44,12 +44,15 @@ Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy p
 ---
 
 ### Lessons
-Total length: X Weeks
+Total length:  8 Weeks
+This section: 2 weeks
+
 + 00
 + 01
 (list each lesson with main topic(s))
 + 0?_Introduction to Bootstrap Div Tags
 + 0?_Introduction to Bootstrap Grid
++ 0?_Introduction to Bootstrap Cards
 + 0?_Stages of Web Design
 + 0?_Introduction to Dreamweaver: Defining a Site
 + 0?_Introduction to Dreamweaver: Defining Page Structure with HTML
