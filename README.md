@@ -44,19 +44,26 @@ Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy p
 ---
 
 ### Lessons
-Total length:  8 Weeks
+Total length:  8 Weeks (the first six weeks are intro to HTML and CSS)
 This section: 2 weeks
 
-+ 00
-+ 01
-(list each lesson with main topic(s))
-+ 0?_Introduction to Bootstrap Div Tags
-+ 0?_Introduction to Bootstrap Grid
-+ 0?_Introduction to Bootstrap Cards
-+ 0?_Stages of Web Design
-+ 0?_Introduction to Dreamweaver: Defining a Site
-+ 0?_Introduction to Dreamweaver: Defining Page Structure with HTML
-+ 0?_Final Assessment: Art
+
++ 01_Introduction to Bootstrap Div Tags
++ 02_Introduction to Bootstrap Grid
++ 03_Introduction to Bootstrap Cards
++ 04_Design Challenge: Create a mutlipage Dryden Highlights Magazine
++ 05_Design Challenge: Day 2 Write Style.css as a group to generate:
+    + the attributes, 
+    + layout and cohesion for each page, 
+    + Headings and paragraphs, 
+    + images and graphics
+    + Lists 
+    + Links and navigation
++ 06_Stages of Web Design, pseudo code/wireframe your art site
++ 07_Introduction to Dreamweaver: Defining a Site, Developing the index page
++ 08_Introduction to Dreamweaver: Defining Page Structure with HTML
++ 09_Final Assessment: Art Portfolio
++ 10_Final Assessment: Art Portfolio
 ---
 
 ### Assesments
