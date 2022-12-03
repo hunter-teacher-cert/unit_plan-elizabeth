@@ -10,5 +10,6 @@ The Stages of Web Design
 ## Notes
 
 ## Resources
+* [Article: The Four Stages of Web Design](https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html?playlistPath=/services/playlist.helpx/products:SG_DREAMWEAVER_1_1/learn-path:get-started/set-header:ccx-designer/playlist:orientation/en_us.json)
 
 ## Assignments
