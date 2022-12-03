@@ -65,8 +65,8 @@ This section: 2 weeks
 + 07_Stages of Web Design, pseudo code/wireframe your art site
 + 08_Introduction to Dreamweaver: Defining a Site, Developing the index page
 + 09_Introduction to Dreamweaver: Defining Page Structure with HTML
-+ 10_Final Assessment: Art Portfolio
-+ 11_Final Assessment: Art Portfolio
++ 10_15Final Assessment: Art Portfolio
++ 16_Web_Accessibility
 ---
 
 ### Assesments
