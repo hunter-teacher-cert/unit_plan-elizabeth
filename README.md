@@ -22,7 +22,7 @@ The final goal is to have them design a personal art portfolio website.   Origin
 + 9-12.CY.1 Cybersecurity (protecting PII within the design)
 + 9-12.DL.4 Digital Literacy (independently select tools)
 + 7-8.DL.6 Digital Literacy (digital footprint)
-+ 7-8.NSD.1 Networks & Sytems Design (accessibility)
++ 7-8.NSD.1 Networks & Sytems Design (accessibility discussion)
 
 
 ---
