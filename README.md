@@ -16,11 +16,13 @@ The final goal is to have them design a personal art portfolio website.   Origin
 
 ### Standards Referenced
 
-+ 7-8.NSD.1 Networks & Sytems Design 
-+ 9-12.NSD.5  Networks & Sytems Design
-+ 9-12.CY.1 Cybersecurity
-+ 9-12.DL.4 Digital Literacy
-+ 7-8.DL.6 Digital Literacy
++ 7-8.NSD.1 Networks & Sytems Design (accessibility)
++ 9-12.CT.4 Computational Thinking (student-defined and third-party functions)
++ 9-12.CT.8 Computational Thinking (practical intent/personal expression)
++ 9-12.CT.10, 7-8.CT.10 Computational Thinking (document and design)
++ 9-12.CY.1 Cybersecurity (protecting PII within the design)
++ 9-12.DL.4 Digital Literacy (independently select tools)
++ 7-8.DL.6 Digital Literacy (digital footprint)
 
 
 ---
