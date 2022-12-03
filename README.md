@@ -15,12 +15,12 @@ The final goal is to have them design a personal art portfolio website.   Origin
 ---
 
 ### Standards Referenced
-List The NY State Computer Science standards you will be covering in this unit. Provide the number and name (e.g. 4-6.CT.1 Computational Thinking, Modeling and Simulation)
-7-8.NSD.1 Networks & Sytems Design 
-9-12.NSD.5  Networks & Sytems Design
-9-12.CY.1 Cybersecurity
-9-12.DL.4 Digital Literacy
-7-8.DL.6 Digital Literacy
+
++ 7-8.NSD.1 Networks & Sytems Design 
++ 9-12.NSD.5  Networks & Sytems Design
++ 9-12.CY.1 Cybersecurity
++ 9-12.DL.4 Digital Literacy
++ 7-8.DL.6 Digital Literacy
 
 
 ---
