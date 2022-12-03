@@ -1,4 +1,4 @@
-# UNIT PLAN: Art Portfolio using HTML, CSS
+# UNIT PLAN: Art Portfolio using HTML, CSS and Bootstrap
 by ELIZABETH RECHTIN
 
 -----
