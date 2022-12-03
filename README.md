@@ -40,7 +40,7 @@ Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy p
 + [W3SChools.org - CSS](https://www.w3schools.com/css/default.asp)
 + [W3Schools.org - Bootstrap](https://www.w3schools.com/bootstrap/default.asp)
 + [Bootstrap](https://getbootstrap.com/)
-+ 
++ [Adobe](https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html?playlistPath=/services/playlist.helpx/products:SG_DREAMWEAVER_1_1/learn-path:get-started/set-header:ccx-designer/playlist:orientation/en_us.json)
 
 
 ---
