@@ -40,33 +40,27 @@ Other tools: Desktop computers with Notepad, Adobe Creative Cloude Suite, copy p
 + [W3SChools.org - CSS](https://www.w3schools.com/css/default.asp)
 + [W3Schools.org - Bootstrap](https://www.w3schools.com/bootstrap/default.asp)
 + [Bootstrap](https://getbootstrap.com/)
-+ 
++ [Adobe](https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html?playlistPath=/services/playlist.helpx/products:SG_DREAMWEAVER_1_1/learn-path:get-started/set-header:ccx-designer/playlist:orientation/en_us.json)
 
 
 ---
 
 ### Lessons
-Total length:  8 Weeks (the first six weeks are intro to HTML and CSS)
-This section: 2 weeks
+Total length:  approximately 10 Weeks (the first six weeks are intro to HTML and CSS)
+This section: 4 weeks
 
-
-+ 01_Introduction to Bootstrap Div Tags
-+ 02_Introduction to Bootstrap Grid
++ 01_Introduction to Bootstrap NavBar 
++ 02_Introduction to Bootstrap Grid 
 + 03_Introduction to Bootstrap Cards
-+ 04_Design Challenge: Create a mutlipage Dryden Highlights Magazine
-+ 05_Design Challenge: Day 2 Write Style.css as a group to generate:
-    + the attributes, 
-    + layout and cohesion for each page, 
-    + Headings and paragraphs, 
-    + images and graphics
-    + Lists 
-    + Links and navigation
++ 04_Four Stages of Web Design; How to pseudo code/wireframe your art site
++ 05_Design Challenge Jigsaw: Wireframe a mutlipage Dryden Highlights Magazine 
+    +  create a paper prototype to plan how the pages will work together
+    +  find/incorporate/demonstrate one new bootstrap element that would fit into the page
 + 06_Introduction to Final Assessment Criteria: Art Portfolio and Rubric
-+ 07_Stages of Web Design, pseudo code/wireframe your art site
-+ 08_Introduction to Dreamweaver: Defining a Site, Developing the index page
-+ 09_Introduction to Dreamweaver: Defining Page Structure with HTML
-+ 10_Final Assessment: Art Portfolio
-+ 11_Final Assessment: Art Portfolio
++ 07_Introduction to Dreamweaver: Defining a Site, Developing the index page
++ 08_Introduction to Dreamweaver: Defining Page Structure with HTML
++ 09_Final Assessment: Art Portfolio (prototype and build over 2 weeks, peer and teacher feedback incorporated)
++ 10_Web_Accessibility
 ---
 
 ### Assesments
