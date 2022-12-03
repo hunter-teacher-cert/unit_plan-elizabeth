@@ -1,8 +1,8 @@
 # Title:
 
-## Main objective
+## Summary:
 
-## Standards
+## Learning Outcomes:
 
 ## In class exercises
 
