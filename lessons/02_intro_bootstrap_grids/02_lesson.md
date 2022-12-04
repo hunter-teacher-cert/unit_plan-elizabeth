@@ -1,40 +1,46 @@
-# Introduction to Bootstrap "Nav" "Tab" and "Navbar"
+# Introduction to Grids in Bootstrap 
 
 ## Summary:
 Students have completed a six week unit in basic HTML and CSS.  This lesson will build on those skills so that students can apply dynamic features to a web page prior to learning Javascript. 
 
 ## Learning Outcomes:
-* I can define what a "nav" or a "tab" bar is an identify an example on the Internet.
-* I can modify Bootstrap elements to create a personalized navigation system.
+* I can define what a "grid" is an identify an example on the Internet.
+* I can modify Bootstrap elements to create a three column row.
 
 ## In class exercises
 ### Warm Up (slide 2)
-Question:  Which site do you think uses a “nav” or a “tab”?
-Bonus: Can you identify where they are?
+Question:  What are grids and why do we need them?
 
-### Introduction to Bootstrap (slide 3)
-Bootstrap is 
-- an HTML, CSS and JS Library that focuses on simplifying the development 
-- an external style sheet that provides basic style definitions for all HTML elements
+### Think Time (slide 3)
+Students have a minute to look at the code block and consider what it's doing, how to modify it, and any other observations. Students should jot down thier thoughts before the time is up. 
 
-### Think Time (slide 4)
 Provided: 
 
 ```
-<nav class="nav">
-  <a class="nav-link active" aria-current="page" href="#">Active</a>
-  <a class="nav-link" href="#">Link</a>
-  <a class="nav-link" href="#">Link</a>
-  <a class="nav-link disabled">Disabled</a>
-</nav>
-```
-Students have a minute to look at the code block and consider what it's doing, how to modify it, and any other observations. Students should jot down thier thoughts before the time is up. 
+<div class="container text-center">
+  <div class="row">
+    <div class="col">
+      Column
+    </div>
 
-### Talk Time (slide 5)
+    <div class="col">
+      Column
+    </div>
+
+    <div class="col">
+      Column
+    </div>
+
+  </div>
+</div>
+```
+
+
+### Talk Time (slide 4)
 Students have a minute to turn and discuss with a partner what they think it will do.  One group will share out, groups that had new information or different ideas, share out for discussion and clarification. 
 
 ### Introduction to Bootstrap (slide 6)
-* Demonstration on how to navigate to Bootstrap and find the layout and components sections.
+* Demonstration on how to navigate to Bootstrap and find the Layout section > Grid.
 * Demonstration on how to browse the site without getting overwhelmed.
 * How to preview each element and copy the code.
 * Students are provided a basic html code block to work with:
@@ -62,17 +68,18 @@ Students have a minute to turn and discuss with a partner what they think it wil
 ```
 * Students paste the Bootstrap code into the body and make adjustments to personalize their work.
 
-### Activities:
-* Level 1: Personalize the links to fit your style
-* Level 2: Add more links and personalize them
-* Level 3: Try out "Tabs" or "Navbars"
-  - add new links
-  - personalize
+### Activities (slide 6)
+* Level 1: Add a three column row, personalize the content by changing the type
+* Level 2: Add another row, personalize each one, add a different color to each.
+* Level 3: Add another row:
+  - personalize the type
+  - add a different color background to each
+  - insert an image in each
    
-
+### Visual Example (slide 7)
 
 ## Resources:
-* https://getbootstrap.com/docs/5.2/components/navs-tabs/
+* [Bootstrap Grids](https://getbootstrap.com/docs/5.2/layout/grid/)
 
 ## Notes
   
