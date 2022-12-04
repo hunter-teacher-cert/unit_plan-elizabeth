@@ -63,10 +63,13 @@ Students have a minute to turn and discuss with a partner what they think it wil
 * Students paste the Bootstrap code into the body and make adjustments to personalize their work.
 
 ### Activities:
-Mild:
-* Personalize the links to fit your style <br>
-Medium:
-* 
+* Level 1: Personalize the links to fit your style
+* Level 2: Add more links and personalize them
+* Level 3: Try out "Tabs" or "Navbars"
+  - add new links
+  - personalize
+   
+
 
 ## Resources:
 * https://getbootstrap.com/docs/5.2/components/navs-tabs/
