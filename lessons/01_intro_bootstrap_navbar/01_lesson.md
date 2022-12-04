@@ -60,9 +60,16 @@ Students have a minute to turn and discuss with a partner what they think it wil
 
 </html>
 ```
-* Students paste the Bootstrap code into the body and make adjustments to personalize their work. 
+* Students paste the Bootstrap code into the body and make adjustments to personalize their work.
+
+### Activities:
+Mild:
+* Personalize the links to fit your style <br>
+Medium:
+* 
+
+## Resources:
+* https://getbootstrap.com/docs/5.2/components/navs-tabs/
+
 ## Notes
-
-## Resources
-
-## Assignments
+  
