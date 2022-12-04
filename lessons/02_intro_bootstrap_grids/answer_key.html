@@ -4,26 +4,73 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HTML Starter</title>
+  <meta name="viewport" content="width=device-width">
+  <title>html_starter</title>
+  <!---this links to the bootstrap css that controls the columns--->
   <link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+
+  <!---this links to a css that controls the size of the images--->
+  <link href="css/grid.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
   <h1>The Griddy</h1>
   <!--- Header --->
 
-  <!--- Main Content --->
+  <!--- TASK: create three columns, label each one and add background color --->
   <div class="container text-center">
     <div class="row">
-      <div class="col">
-        Column
+      <!---this is where you control the col background color--->
+      <div class="col" style="background: red;">
+        <!---change Column to label placement--->
+        <h1>This is my first column on the left</h1>        
       </div>
-      <div class="col">
-        Column
+
+      <div class="col" style="background: orange;">
+        <!---col background color--->
+        <p>This is my middle column</p>
       </div>
-      <div class="col">
-        Column
+
+      <div class="col" style="background: yellow;">
+        <!---col background color--->
+        <h4>This is the third column on the right</h4>
+      </div>
+    </div>
+  </div>
+  <!---STRETCH: add second row of columns - copy and paste, then change content--->
+  <div class="container text-center">
+    <div class="row">
+      <div class="col" style="background: lightgreen;">
+        <h4>This is the second row, left</h4>
+      </div>
+
+      <div class="col" style="background: lightblue;">
+        <p>This is the second row, middle</p>
+      </div>
+
+      <div class="col" style="background: #C370FB;">
+        <h1>This is the second row, right</h1>
+      </div>
+    </div>
+  </div>
+
+  <!---CHALLENGE: third row of columns for images--->
+  <div class="container text-center">
+    <div class="row">
+      <!---adding color to the background--->
+      <div class="col" style="background: #939393;">
+        <!---adding an image--->
+        <img src="images/mandalas-1084082__480.jpg" alt="mandala;" />
+      </div>
+      <!---adding color to the background--->
+      <div class="col" style="background: #6D6D6D;">
+        <!---adding an image--->
+        <img src="images/devices.jpg" alt="devices;" />
+      </div>
+      <!---adding color to the background--->
+      <div class="col" style="background: #434343;">
+        <!---adding an image--->
+        <img src="images/houses.jpg" alt="houses;" />
       </div>
     </div>
   </div>
