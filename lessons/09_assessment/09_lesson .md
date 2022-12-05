@@ -3,6 +3,7 @@
 ## Summary:
 Students have completed a six week unit in basic HTML and CSS followed by a two week unit in Bootstrap elements.  Students have been introduced to paper prototypes/wireframe and had time to practice this planning process. This is a the summative assessment for the unit, as well as the final exam grade for the course. 
 This lesson will measure skills introduced throughout the unit, and the course. 
+* **Note:** the lesson, supporting documents and rubric were introduced in lesson 06
 
 ## Time Span: 
 * Approximately 2 weeks
