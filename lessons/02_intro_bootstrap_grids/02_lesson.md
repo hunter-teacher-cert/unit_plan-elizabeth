@@ -50,7 +50,11 @@ Students have a minute to turn and discuss with a partner what they think it wil
 
 <head>
   <meta charset="utf-8">
-  <title>html_starter</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML Starter</title>
+  <!---this links to the bootstrap css that controls the columns--->
+  <link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
