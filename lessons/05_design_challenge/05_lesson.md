@@ -15,6 +15,7 @@ Task:  Find a group of 2 or 3 people that you have worked with productively.
 ### Introduction to Design Challenge - Bootstrap Jigsaw (slide 3)
 * In small teams, students will create a mini-magazine (one page per student in the group) of Dryden High School Highlights. These can be real or imagined.
 * The mini-site should include a grid, a navbar AND A NEW Bootstrap element that we have not gone over in class.
+* Bootstrap considerations: CAROUSEL, ASMMETRICAL GRIDS, ASYMMETRICAL COLUMNS, CARD GROUPS AND GRID CARDS, 
 * The site should be wireframed FIRST - with a paper prototype that shows:
   - each page
   - the navigation considerations
