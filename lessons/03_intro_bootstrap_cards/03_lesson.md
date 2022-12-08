@@ -84,4 +84,5 @@ Students have a minute to turn and discuss with a partner what they think it wil
 * [Bootstrap Cards](https://getbootstrap.com/docs/5.2/components/card/)
 
 ## Notes
+Example Page: file:///D:/Hunter%20College/HTML_CSS_Bootstrap/cards_with_grid.html#
   

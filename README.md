@@ -53,12 +53,12 @@ This section: 4 weeks
 + 02_Introduction to Bootstrap Grid 
 + 03_Introduction to Bootstrap Cards
 + 04_Four Stages of Web Design; How to pseudo code/wireframe your art site
-+ 05_Design Challenge Jigsaw: Wireframe a mutlipage Dryden Highlights Magazine 
++ 05_06_Design Challenge Jigsaw: Wireframe a mutlipage Dryden Highlights Magazine 
     +  create a paper prototype to plan how the pages will work together
     +  find/incorporate/demonstrate one new bootstrap element that would fit into the page
-+ 06_Introduction to Final Assessment Criteria: Art Portfolio and Rubric
-+ 07_Introduction to Dreamweaver: Defining a Site, Developing the index page
-+ 08_Introduction to Dreamweaver: Defining Page Structure with HTML
+    +  asymmetrical grids, carousel, 
++ 07_Introduction to Final Assessment Criteria: Art Portfolio and Rubric
++ 08_Introduction to Dreamweaver: Defining a Site, Developing the index page
 + 09_Final Assessment: Art Portfolio (prototype and build over 2 weeks, peer and teacher feedback incorporated)
 + 10_Web_Accessibility
 ---
